@@ -1,1 +1,1 @@
-# implementing a ML-project in AWS-SageMaker
+# Implementing a ML-project in AWS-SageMaker
