@@ -1,0 +1,7 @@
+boto3
+awscli
+sagemaker
+pandas
+numpy
+scikit-learn
+ipykernel
